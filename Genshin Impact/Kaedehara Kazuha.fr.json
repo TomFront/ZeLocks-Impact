@@ -1,0 +1,18 @@
+{
+    "embeds": [
+      {
+        "author": {
+          "name": "Kaedehara Kazuha - Guide de build"
+        },
+        "fields": [
+          {
+            "name": "Meilleures armes",
+            "value": "Serment de la liberté (5★)"
+          }
+        ],
+        "footer": {
+          "text": "Dernier update: 5.5 | Guide fait par ZeLocks"
+        }
+      }
+    ]
+  }
