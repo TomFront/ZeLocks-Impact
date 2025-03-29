@@ -1,6 +1,7 @@
 {
     "embeds": [
       {
+        "color": 9890203,
         "author": {
           "name": "Kaedehara Kazuha - Guide de build"
         },
@@ -10,6 +11,9 @@
             "value": "Serment de la liberté (5★)"
           }
         ],
+        "thumbnail": {
+          "url": "https://example.com/kazuha-thumbnail.webp"
+        },
         "footer": {
           "text": "Dernier update: 5.5 | Guide fait par ZeLocks"
         }
