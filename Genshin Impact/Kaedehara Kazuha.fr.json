@@ -18,8 +18,18 @@
           "inline": true
         },
         {
+          "name": "Meilleurs artéfacts",
+          "value": "1) 4p [*Ombre de la Verte Chasseuse*](https://gi.yatta.moe/fr/archive/reliquary/15002/viridescent-venerer)",
+          "inline": false
+        },
+        {
           "name": "Priorité des stats principales",
           "value": "<:SablesDuTemps:1355650175284154489> Maîtrise élémentaire ou Recharge d'énergie\n<:CoupeDonothme:1355650173359096105> Maîtrise élémentaire\n<:DiadmedeLogos:1355650171706540063> Maîtrise élémentaire"
+        },
+        {
+          "name": "Priorité des sub stats",
+          "value": "- Maîtrise élémentaire\n- Recharge d'énergie\n- Taux CRIT (si Favonius)",
+          "inline": true
         },
         {
           "name": "Priorité des talents",

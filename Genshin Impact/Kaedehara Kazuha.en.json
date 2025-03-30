@@ -18,8 +18,18 @@
           "inline": true
         },
         {
+          "name": "Best Artifact Sets",
+          "value": "1) 4pc [*Viridescent Venerer*](https://gi.yatta.moe/en/archive/reliquary/15002/viridescent-venerer)",
+          "inline": false
+        },
+        {
           "name": "Main Stat Priority",
           "value": "<:SablesDuTemps:1355650175284154489> Elemental Mastery or Energy Recharge\n<:CoupeDonothme:1355650173359096105> Elemental Mastery\n<:DiadmedeLogos:1355650171706540063> Elemental Mastery"
+        },
+        {
+          "name": "Sub Stat Priority",
+          "value": "- Elemental Mastery\n- Energy Recharge\n- CRIT Rate (if Favonius)",
+          "inline": true
         },
         {
           "name": "Talent Priority",
