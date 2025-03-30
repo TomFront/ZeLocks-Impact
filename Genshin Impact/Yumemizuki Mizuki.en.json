@@ -1,37 +1,47 @@
 {
-    "embeds": [
-      {
-        "color": 3120183,
-        "author": {
-          "name": "Yumemizuki Mizuki - Guide (Swirl Support)",
-          "icon_url": "https://media.discordapp.net/attachments/1355646675401576609/1355794290936254464/latest.png?ex=67ea3954&is=67e8e7d4&hm=cdd987ad7351e1d8f8e18210090e81293dffca7c895edacae995897399bb7a90&=&format=webp&quality=lossless&width=461&height=461"
+  "embeds": [
+    {
+      "color": 3120183,
+      "author": {
+        "name": "Yumemizuki Mizuki - Guide (Swirl Support)",
+        "icon_url": "https://media.discordapp.net/attachments/1355646675401576609/1355794290936254464/latest.png?ex=67ea3954&is=67e8e7d4&hm=cdd987ad7351e1d8f8e18210090e81293dffca7c895edacae995897399bb7a90&=&format=webp&quality=lossless&width=461&height=461"
+      },
+      "fields": [
+        {
+          "name": "Best Weapon(s):",
+          "value": "__Sunny Morning Sleep-In__ (5★)\nMizuki's signature will grant her up to a total of 513 Elemental Mastery, which is her BiS. However, there are many other weapons which she can make use of as her signature is exclusively made for her.\n\n__Starcaller’s Watch__ (5★)\nCitlali’s signature, gives 365 Elemental Mastery but the DMG Bonus upon creating a shield is useless for her, but it is still a good option as a stat stick.\n\n__Sacrifical Fragments__ (4★)\nMizuki's BiS 4-star weapon choice, it will allow Mizuki to reset her elemental skill's CD (high chance at high refinement) and will help with the energy and rotation.",
+          "inline": true
         },
-        "fields": [
-          {
-            "name": "Best Weapon(s):",
-            "value": "__Sunny Morning Sleep-In__ (5★)\nMizuki's signature will grant her up to a total of 513 Elemental Mastery, which is her BiS. However, there are many other weapons which she can make use of as her signature is exclusively made for her.\n\n__Sacrifical Fragments__ (4★)\nMizuki's BiS 4-star weapon choice, it will allow Mizuki to reset her elemental skill's CD (high chance at high refinement) and will help with the energy and rotation.",
-            "inline": true
-          },
-          {
-            "name": "Other Weapon(s)",
-            "value": "(★)",
-            "inline": true
-          },
-          {
-            "name": "Main Stat Priority",
-            "value": "<:SablesDuTemps:1355650175284154489> Elemental Mastery\n<:CoupeDonothme:1355650173359096105> Elemental Mastery\n<:DiadmedeLogos:1355650171706540063> Elemental Mastery"
-          },
-          {
-            "name": "Talent Priority",
-            "value": "None, the attributes are only for Mizuki's personal DMG so you can just leave the talents at level 1."
-          }
-        ],
-        "thumbnail": {
-          "url": "https://cdn.discordapp.com/attachments/1355794291129188484/1355794452752371884/latest.png?ex=67ea397a&is=67e8e7fa&hm=021628d022073a4862de218fdce4f6579338d5972a9d8dd2dfec480597aeeab3&"
+        {
+          "name": "Other Weapon(s)",
+          "value": "__Magic Guide__ (3★)\nBiS 3-star weapon as a stat stick, even though it gives less EM than the other weapons, it is still a viable option as most players should have it, even at high refinement.",
+          "inline": true
         },
-        "footer": {
-          "text": "Last updated: 5.5 | Guide by ZeLocks"
+        {
+          "name": "Best Artifact Sets",
+          "value": "**1)** 4pc [*Viridescent Venerer*](https://gi.yatta.moe/en/archive/reliquary/15002/viridescent-venerer)\n**2)** 4pc [*Gilded Dreams*](https://gi.yatta.moe/en/archive/reliquary/15026/gilded-dreams)\n**3)** 2pc [*Viridescent Venerer*](https://gi.yatta.moe/en/archive/reliquary/15002/viridescent-venerer) & 2pc EM"
+        },
+        {
+          "name": "Main Stat Priority",
+          "value": "<:SablesDuTemps:1355650175284154489> Elemental Mastery\n<:CoupeDonothme:1355650173359096105> Elemental Mastery\n<:DiadmedeLogos:1355650171706540063> Elemental Mastery",
+          "inline": true
+        },
+        {
+          "name": "Substats Priority",
+          "value": "- Elemental Mastery\n- Energy Recharge\n- ATK%",
+          "inline": true
+        },
+        {
+          "name": "Talent Priority",
+          "value": "**1)** Elemental Skill: Asia Utamakura Pilgrimage\n**2)** Elemental Burst: Anraku Secret Spring Therapy\n**3)** Normal Attack: Pure Heart, Pure Dreams"
         }
+      ],
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/1355794291129188484/1355794452752371884/latest.png?ex=67ea397a&is=67e8e7fa&hm=021628d022073a4862de218fdce4f6579338d5972a9d8dd2dfec480597aeeab3&"
+      },
+      "footer": {
+        "text": "Last updated: 5.5 | Guide by ZeLocks"
       }
-    ]
-  }
+    }
+  ]
+}
