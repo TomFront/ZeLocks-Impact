@@ -9,7 +9,7 @@
         "fields": [
           {
             "name": "Best Weapon(s):",
-            "value": "Sunny Morning Sleep-In (5★)\nMizuki's signature will grant her up to a total of 513 Elemental Mastery, which is her BiS. However, there are ",
+            "value": "Sunny Morning Sleep-In (5★)\nMizuki's signature will grant her up to a total of 513 Elemental Mastery, which is her BiS. However, there are many other weapons which she can make use of as her signature is exclusively made for her.\n\n__Sacrifical Fragments__ (4★)",
             "inline": true
           },
           {
@@ -19,11 +19,11 @@
           },
           {
             "name": "Main Stat Priority",
-            "value": "<:SablesDuTemps:1355650175284154489> \n<:CoupeDonothme:1355650173359096105> \n<:DiadmedeLogos:1355650171706540063> "
+            "value": "<:SablesDuTemps:1355650175284154489> Elemental Mastery\n<:CoupeDonothme:1355650173359096105> Elemental Mastery\n<:DiadmedeLogos:1355650171706540063> Elemental Mastery"
           },
           {
             "name": "Talent Priority",
-            "value": ""
+            "value": "None, the attributes are only for Mizuki's personal DMG so you can just leave the talents at level 1."
           }
         ],
         "thumbnail": {
