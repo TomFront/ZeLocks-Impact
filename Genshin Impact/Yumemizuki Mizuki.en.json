@@ -1,0 +1,37 @@
+{
+    "embeds": [
+      {
+        "color": 3120183,
+        "author": {
+          "name": "[Character Name] - Guide ([Role])",
+          "icon_url": "[Character Icon URL]"
+        },
+        "fields": [
+          {
+            "name": "Best Weapon(s):",
+            "value": "__[Main Weapon Name]__ (★)\nShort explanation of why it's good.\n\n__[Alternative Weapon Name]__ (★)\nAnother good option with context.\n\n__[Third Weapon Name]__ (★)\nA situational but viable choice.",
+            "inline": true
+          },
+          {
+            "name": "Other Weapon(s):",
+            "value": "__[Name]__ (★)\nAlternative with EM/ER or CRIT, quick description.\n\n__[Name]__ (★)\nGood F2P or situational choice.\n\n__[Name]__ (★)\nMore niche or refinement-dependent option.",
+            "inline": true
+          },
+          {
+            "name": "Main Stat Priority",
+            "value": "<:SablesDuTemps:ID> [Sands Stat]\n<:CoupeDonothme:ID> [Goblet Stat]\n<:DiadmedeLogos:ID> [Circlet Stat]"
+          },
+          {
+            "name": "Talent Priority",
+            "value": "Quick explanation of what talents to level (or none if not needed)."
+          }
+        ],
+        "thumbnail": {
+          "url": "[Character Splash or In-Game Model URL]"
+        },
+        "footer": {
+          "text": "Last updated: [Patch Version] | Guide by ZeLocks"
+        }
+      }
+    ]
+  }
