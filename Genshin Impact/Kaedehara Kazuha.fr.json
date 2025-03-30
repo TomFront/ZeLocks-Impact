@@ -1,27 +1,27 @@
 {
-    "embeds": [
-      {
-        "color": 3120183,
-        "author": {
-          "name": "Kaedehara Kazuha - Build Guide",
-          "icon_url": "https://media.discordapp.net/attachments/1355646675401576609/1355647223807086683/latest.png?ex=67e9b05c&is=67e85edc&hm=ece880409a65f07402cc8981e60820bdc13441f08a4367ffb59555336c078b79&=&format=webp&quality=lossless&width=461&height=461"
+  "embeds": [
+    {
+      "color": 3120183,
+      "author": {
+        "name": "Kaedehara Kazuha - Build Guide",
+        "icon_url": "https://media.discordapp.net/attachments/1355646675401576609/1355647223807086683/latest.png?ex=67e9b05c&is=67e85edc&hm=ece880409a65f07402cc8981e60820bdc13441f08a4367ffb59555336c078b79&=&format=webp&quality=lossless&width=461&height=461"
+      },
+      "fields": [
+        {
+          "name": "Meilleurs armes:",
+          "value": "<:Sermentdelaliberte:1355651877160878139> Serment de la liberté (5★)\n> ATQ de base: 608\n> Maitrise élémentaire: 198"
         },
-        "fields": [
-          {
-            "name": "Meilleurs armes:",
-            "value": "<:Sermentdelaliberte:1355651877160878139> Serment de la liberté (5★)\n> ATQ de base: 608\n> Maitrise élémentaire: 198"
-          },
-          {
-            "name": "La priorité d’attribut principal",
-            "value": "<:SablesDuTemps:1355650175284154489> Maitrise élémentaire ou Recharge d'énergie\n<:CoupeDonothme:1355650173359096105> Maitrise élémentaire\n<:DiadmedeLogos:1355650171706540063> Maitrise élémentaire"
-          }
-        ],
-        "thumbnail": {
-          "url": "https://media.discordapp.net/attachments/1355647223676801206/1355653168519708833/Kaedehara_Kazuha_Item.webp?ex=67e9b5e6&is=67e86466&hm=7cae99b4730196dedfec5b8996d13adb83a81abb31bb2f4fb74674416760d5d7&=&format=webp&width=461&height=461"
-        },
-        "footer": {
-          "text": "Dernier update: 5.5 | Guide fait par ZeLocks"
+        {
+          "name": "La priorité d’attribut principal",
+          "value": "<:SablesDuTemps:1355650175284154489> Maitrise élémentaire ou Recharge d'énergie\n<:CoupeDonothme:1355650173359096105> Maitrise élémentaire\n<:DiadmedeLogos:1355650171706540063> Maitrise élémentaire"
         }
+      ],
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1355647223676801206/1355653168519708833/Kaedehara_Kazuha_Item.webp?ex=67e9b5e6&is=67e86466&hm=7cae99b4730196dedfec5b8996d13adb83a81abb31bb2f4fb74674416760d5d7&=&format=webp&width=461&height=461"
+      },
+      "footer": {
+        "text": "Dernier update: 5.5 | Guide fait par ZeLocks"
       }
-    ]
-  }
+    }
+  ]
+}
