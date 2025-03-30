@@ -24,7 +24,8 @@
         },
         {
           "name": "Main Stat Priority",
-          "value": "<:SablesDuTemps:1355650175284154489> Elemental Mastery or Energy Recharge\n<:CoupeDonothme:1355650173359096105> Elemental Mastery\n<:DiadmedeLogos:1355650171706540063> Elemental Mastery"
+          "value": "<:SablesDuTemps:1355650175284154489> Elemental Mastery or Energy Recharge\n<:CoupeDonothme:1355650173359096105> Elemental Mastery\n<:DiadmedeLogos:1355650171706540063> Elemental Mastery",
+          "inline": true
         },
         {
           "name": "Sub Stat Priority",
