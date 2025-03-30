@@ -1,27 +1,37 @@
 {
-    "embeds": [
+  "embeds": [
+    {
+      "color": 3120183,
+      "author": {
+        "name": "Kaedehara Kazuha - Guide (Support)",
+        "icon_url": "https://media.discordapp.net/attachments/1355646675401576609/1355647223807086683/latest.png?ex=67e9b05c&is=67e85edc&hm=ece880409a65f07402cc8981e60820bdc13441f08a4367ffb59555336c078b79&=&format=webp&quality=lossless&width=461&height=461"
+      },
+      "fields": [
         {
-            "color": 3120183,
-            "author": {
-                "name": "Kaedehara Kazuha - Build Guide",
-                "icon_url": "https://media.discordapp.net/attachments/1355646675401576609/1355647223807086683/latest.png?ex=67e9b05c&is=67e85edc&hm=ece880409a65f07402cc8981e60820bdc13441f08a4367ffb59555336c078b79&=&format=webp&quality=lossless&width=461&height=461"
-            },
-            "fields": [
-                {
-                    "name": "Best Weapons:",
-                    "value": "__Freedom-Sworn__ (5★)\nKazuha’s signature weapon and one of his top choices especially for his personal damage. But in some scenarios/teams weapons like Xiphos' and Favonius can be better. Still, even for supporting capabilities, it's a really good choice."
-                },
-                {
-                    "name": "Main Stat Priority",
-                    "value": "<:SablesDuTemps:1355650175284154489> Elemental Mastery or Energy Recharge\n<:CoupeDonothme:1355650173359096105> Elemental Mastery\n<:DiadmedeLogos:1355650171706540063> Elemental Mastery"
-                }
-            ],
-            "thumbnail": {
-                "url": "https://media.discordapp.net/attachments/1355647223676801206/1355653168519708833/Kaedehara_Kazuha_Item.webp?ex=67e9b5e6&is=67e86466&hm=7cae99b4730196dedfec5b8996d13adb83a81abb31bb2f4fb74674416760d5d7&=&format=webp&width=461&height=461"
-            },
-            "footer": {
-                "text": "Last updated: 5.5 | Guide by ZeLocks"
-            }
+          "name": "Best Weapon(s):",
+          "value": "__Freedom-Sworn__ (5★)\nKazuha’s signature weapon and one of his top choices especially for his personal damage. But in some scenarios/teams weapons like Xiphos' and Favonius can be better. Still, even for supporting capabilities, it's a really good choice.\n\n__Xiphos’ Moonlight__ (4★)\nKazuha's best 4★ weapon when equally refined with Favonius Sword (which is easier to refine). Converts EM into ER for him and his team. Can even outperform Freedom-Sworn in teams that don’t benefit from its DMG bonus.\n\n__Favonius Sword__ (4★)\nProvides extreme comfort with an ER mainstat, as well as a passive that aids in further reducing his ER requirements, alongside his team’s. When using this weapon, crit rate substats are a high priority in order to proc the passive more consistently.",
+          "inline": true
+        },
+        {
+          "name": "Other Weapon(s)",
+          "value": "__Iron Sting__ (4★)\nConsiderable 4 star option because of the Elemental Mastery it gives. The passive however isn’t the best for Kazuha nor for the other characters on the field but it remains the best choice you do not have the Freedom Sworn, Xiphos' Moonlight or a high refinement Favonius Sword.\n\n__Dark Iron Sword__ (3★)\nThis weapon provides slightly less EM than Iron Sting or the aforementioned weapons but is still a very good option for most F2P players.\n\n__Sacrificial Sword__ (4★)\nAn ER stat stick which allows for chaining multiple skill uses in one window. However, using the additional skill cast runs into the same issue as his C1; taking more field time that otherwise could have been better utilised by the team’s On-Field DPS units.\nSince Kazuha only deals one elemental skill damage instance, the weapon passive would be very unreliable to proc at lower refinements, with higher refinements aiding but still proc’ing the passive inconsistently.",
+          "inline": true
+        },
+        {
+          "name": "Main Stat Priority",
+          "value": "<:SablesDuTemps:1355650175284154489> Elemental Mastery or Energy Recharge\n<:CoupeDonothme:1355650173359096105> Elemental Mastery\n<:DiadmedeLogos:1355650171706540063> Elemental Mastery"
+        },
+        {
+          "name": "Talent Priority",
+          "value": "None, the attributes are only for Kazuha’s personal DMG so you can just leave the talents at level 1."
         }
-    ]
+      ],
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1355647223676801206/1355653168519708833/Kaedehara_Kazuha_Item.webp?ex=67e9b5e6&is=67e86466&hm=7cae99b4730196dedfec5b8996d13adb83a81abb31bb2f4fb74674416760d5d7&=&format=webp&width=461&height=461"
+      },
+      "footer": {
+        "text": "Last updated: 5.5 | Guide by ZeLocks"
+      }
+    }
+  ]
 }
