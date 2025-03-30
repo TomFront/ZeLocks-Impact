@@ -1,0 +1,37 @@
+{
+    "embeds": [
+      {
+        "color": 3120183,
+        "author": {
+          "name": " - Guide ()",
+          "icon_url": ""
+        },
+        "fields": [
+          {
+            "name": "Meilleures armes :",
+            "value": "(★)",
+            "inline": true
+          },
+          {
+            "name": "Autres armes :",
+            "value": " (★)",
+            "inline": true
+          },
+          {
+            "name": "Priorité des stats principales",
+            "value": "<:SablesDuTemps:ID> [Stat sur sablier]\n<:CoupeDonothme:ID> [Stat sur coupe]\n<:DiadmedeLogos:ID> [Stat sur couronne]"
+          },
+          {
+            "name": "Priorité des talents",
+            "value": ""
+          }
+        ],
+        "thumbnail": {
+          "url": ""
+        },
+        "footer": {
+          "text": "Dernière mise à jour :  | Guide par ZeLocks"
+        }
+      }
+    ]
+  }
