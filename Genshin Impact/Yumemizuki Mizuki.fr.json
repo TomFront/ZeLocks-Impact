@@ -3,8 +3,8 @@
       {
         "color": 3120183,
         "author": {
-          "name": " - Guide ()",
-          "icon_url": ""
+          "name": "Yumemizuki Mizuki - Guide (Support)",
+          "icon_url": "https://cdn.discordapp.com/attachments/1355646675401576609/1355794290936254464/latest.png?ex=67ea3954&is=67e8e7d4&hm=cdd987ad7351e1d8f8e18210090e81293dffca7c895edacae995897399bb7a90&"
         },
         "fields": [
           {
@@ -19,7 +19,7 @@
           },
           {
             "name": "Priorité des stats principales",
-            "value": "<:SablesDuTemps:ID> [Stat sur sablier]\n<:CoupeDonothme:ID> [Stat sur coupe]\n<:DiadmedeLogos:ID> [Stat sur couronne]"
+            "value": "<:SablesDuTemps:ID> Maitrise élémentaire\n<:CoupeDonothme:ID> Maitrise élémentaire\n<:DiadmedeLogos:ID> Maitrise élémentaire"
           },
           {
             "name": "Priorité des talents",
