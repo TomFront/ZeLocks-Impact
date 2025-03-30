@@ -9,12 +9,12 @@
             "fields": [
                 {
                     "name": "Meilleures armes :",
-                    "value": "__Grasse Matinée Ensoleillée__ (5★)\nL’arme signature de Mizuki lui donne jusqu’à 513 de maîtrise élémentaire, ce qui en fait son BiS. Cependant, d'autres armes peuvent bien fonctionner aussi, car sa signature est faite exclusivement pour elle.\n\n__Montre de l’Appel des Étoiles__ (5★)\nL’arme signature de Citlali, offre 365 de maîtrise élémentaire. Le bonus de DGT lors de la création d’un bouclier ne sert à rien pour Mizuki, mais cela reste une bonne option en tant que stat stick.\n\n__Fragments de Sacrifice__ (4★)\nMeilleure arme 4★ pour Mizuki. Permet de réinitialiser le CD de sa compétence élémentaire (fortes chances à haut raffinement) et facilite la recharge d’énergie et les rotations.",
+                    "value": "__Matinée frânée sous le soleil__ (5★)\nLa signature de Mizuki lui donne jusqu’à 513 de maîtrise élémentaire, ce qui en fait son BiS. Cependant, d'autres armes peuvent bien fonctionner aussi, car sa signature est faite exclusivement pour elle.\n\n__Veillée d'appel d'étoiles__ (5★)\nLa signature de Citlali, offre 365 de maîtrise élémentaire. Le bonus de DGT lors de la création d’un bouclier ne sert à rien pour Mizuki, mais cela reste une bonne option pour les pts de maitrise élémentaire qui donne.\n\n__Mémoires de rituels__ (4★)\nMeilleure arme 4★ pour Mizuki. Permet de réinitialiser le CD de sa compétence élémentaire (fortes chances à haut raffinement) et facilite la recharge d’énergie et les rotations.",
                     "inline": true
                 },
                 {
                     "name": "Autres armes :",
-                    "value": "__Guide de la Magie__ (3★)\nMeilleure arme 3★ en tant que stat stick. Même si elle donne moins de ME que les autres, elle reste une bonne option F2P, surtout avec un haut raffinement.",
+                    "value": "__Guide de magie__ (3★)\nMeilleure arme 3★ en tant que stat stick. Même si elle donne moins de ME que les autres, elle reste une bonne option F2P, surtout avec un haut raffinement.",
                     "inline": true
                 },
                 {
@@ -33,7 +33,7 @@
                 },
                 {
                     "name": "Priorité des talents",
-                    "value": "**1)** Compétence Élémentaire : Pèlerinage Asia Utamakura\n**2)** Déchaînement Élémentaire : Thérapie Secrète de la Source Anraku\n**3)** Attaque Normale : Cœur Pur, Rêves Purs"
+                    "value": "**1)** E: Pèlerinage Asia Utamakura\n**2)** Q: Thérapie Secrète de la Source Anraku\n**3)** Attaque Normale: Cœur Pur, Rêves Purs"
                 }
             ],
             "thumbnail": {
