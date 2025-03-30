@@ -8,13 +8,13 @@
       },
       "fields": [
         {
-          "name": "Meilleure arme(s) :",
-          "value": "__Serment de la liberté__ (5★)\nL'arme signature de Kazuha et l’un de ses meilleurs choix, notamment pour ses dégâts personnels. Dans certains cas ou équipes, des armes comme Xiphos ou Favonius peuvent être meilleures. Cela reste un excellent choix, même pour un rôle de soutien.\n\n__Clair de lune de Xiphos__ (4★)\nMeilleure arme 4★ de Kazuha à égalité de raffinement avec l’Épée de Favonius (plus facile à raffiner). Convertit la maîtrise élémentaire en recharge d’énergie pour lui et son équipe. Peut même surpasser Serment de la liberté dans des équipes qui ne bénéficient pas de son bonus de DGT.\n\n__Épée de Favonius__ (4★)\nApporte un confort extrême grâce à sa statistique principale en recharge d’énergie et son passif qui réduit encore plus ses besoins en RE, ainsi que ceux de l’équipe. Lorsque vous utilisez cette arme, la priorité des substats en taux CRIT est élevée afin de déclencher le passif plus facilement.",
+          "name": "Meilleures armes :",
+          "value": "__Serment de la liberté__ (5★)\nL'arme signature de Kazuha et l’un de ses meilleurs choix, notamment pour ses dégâts personnels. Mais dans certaines équipes, des armes comme Xiphos ou Favonius peuvent être meilleures. Cela reste une excellente option, même en tant que soutien.\n\n__Lumière de la Lune de Xiphos__ (4★)\nLa meilleure arme 4★ de Kazuha à égalité de raffinement avec l’Épée de Favonius (qui est plus facile à raffiner). Convertit sa maîtrise élémentaire en recharge d’énergie pour lui et son équipe. Peut même surpasser Serment de la liberté si l’équipe ne profite pas du bonus de DGT.\n\n__Épée de Favonius__ (4★)\nApporte énormément de confort avec sa stat de recharge d’énergie, ainsi qu’un passif qui réduit encore davantage ses besoins en recharge, ainsi que ceux de son équipe. Lors de son utilisation, la priorité en taux CRIT est importante pour activer son passif de manière fiable.",
           "inline": true
         },
         {
           "name": "Autres armes :",
-          "value": "__Dard en fer__ (4★)\nBonne option 4★ grâce à la maîtrise élémentaire qu’elle fournit. Son passif n’est cependant pas optimal pour Kazuha ni pour les autres personnages sur le terrain, mais elle reste le meilleur choix si vous n’avez ni Serment de la liberté, ni Clair de lune de Xiphos, ni une Épée de Favonius à haut raffinement.\n\n__Épée noire ferreuse__ (3★)\nOffre légèrement moins de ME que Dard en fer ou les armes mentionnées précédemment, mais reste une très bonne option pour les joueurs F2P.\n\n__Épée sacrificielle__ (4★)\nArme avec RE qui permet d'enchaîner plusieurs compétences en une seule fenêtre. Cependant, l'utilisation du second cast pose le même problème que sa C1 : un temps de présence prolongé sur le terrain qui pourrait être mieux utilisé par les DPS principaux de l’équipe. Comme Kazuha ne fait qu’un seul dégât avec sa compétence, le passif de l’arme est peu fiable à bas raffinement. À haut raffinement, cela s'améliore mais reste irrégulier.",
+          "value": "__Rugissement du Fer__ (4★)\nBonne option 4★ grâce à sa maîtrise élémentaire. Son passif, cependant, n’est pas optimal pour Kazuha ni pour ses coéquipiers. Reste une excellente alternative si vous n’avez ni Serment de la liberté, ni Lumière de la Lune de Xiphos, ni une Épée de Favonius à haut raffinement.\n\n__Épée en Fer Noir__ (3★)\nOffre un peu moins de maîtrise élémentaire que Rugissement du Fer ou les autres armes mentionnées, mais reste une très bonne option pour les joueurs F2P.\n\n__Épée Rituelle__ (4★)\nUne arme avec stat de recharge d’énergie qui permet d’enchaîner plusieurs compétences élémentaires. Cependant, comme avec sa C1, cela prend trop de temps sur le terrain, ce qui nuit au DPS principal. Son passif est difficile à activer (surtout à faible raffinement), même si cela devient un peu plus constant à haut niveau.",
           "inline": true
         },
         {
@@ -22,12 +22,12 @@
           "value": "<:SablesDuTemps:1355650175284154489> Maîtrise élémentaire ou Recharge d'énergie\n<:CoupeDonothme:1355650173359096105> Maîtrise élémentaire\n<:DiadmedeLogos:1355650171706540063> Maîtrise élémentaire"
         },
         {
-          "name": "Priorité des aptitudes",
-          "value": "Aucune, les aptitudes ne servent qu’aux dégâts personnels de Kazuha. Vous pouvez donc les laisser au niveau 1."
+          "name": "Priorité des talents",
+          "value": "Aucun. Les talents n'affectent que ses dégâts personnels, donc vous pouvez les laisser niveau 1."
         }
       ],
       "thumbnail": {
-        "url": "https://media.discordapp.net/attachments/1355657223676801206/1355653168519708833/Kaedehara_Kazuha_Item.webp?ex=67e9b5e6&is=67e86466&hm=7cae99b4730196dedfec5b8996d13adb83a81abb31bb2f4fb74674416760d5d7&=&format=webp&width=461&height=461"
+        "url": "https://media.discordapp.net/attachments/1355647223676801206/1355653168519708833/Kaedehara_Kazuha_Item.webp?ex=67e9b5e6&is=67e86466&hm=7cae99b4730196dedfec5b8996d13adb83a81abb31bb2f4fb74674416760d5d7&=&format=webp&width=461&height=461"
       },
       "footer": {
         "text": "Dernière mise à jour : 5.5 | Guide par ZeLocks"
