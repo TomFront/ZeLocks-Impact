@@ -1,37 +1,47 @@
 {
     "embeds": [
-      {
-        "color": 3120183,
-        "author": {
-          "name": "Yumemizuki Mizuki - Guide (Swirl Support)",
-          "icon_url": "https://cdn.discordapp.com/attachments/1355646675401576609/1355794290936254464/latest.png?ex=67ea3954&is=67e8e7d4&hm=cdd987ad7351e1d8f8e18210090e81293dffca7c895edacae995897399bb7a90&"
-        },
-        "fields": [
-          {
-            "name": "Meilleures armes :",
-            "value": "(★)",
-            "inline": true
-          },
-          {
-            "name": "Autres armes :",
-            "value": " (★)",
-            "inline": true
-          },
-          {
-            "name": "Priorité des stats principales",
-            "value": "<:SablesDuTemps:1355650175284154489> Maitrise élémentaire\n<:CoupeDonothme:1355650173359096105> Maitrise élémentaire\n<:DiadmedeLogos:1355650171706540063> Maitrise élémentaire"
-          },
-          {
-            "name": "Priorité des talents",
-            "value": ""
-          }
-        ],
-        "thumbnail": {
-          "url": "https://cdn.discordapp.com/attachments/1355794291129188484/1355794452752371884/latest.png?ex=67ea397a&is=67e8e7fa&hm=021628d022073a4862de218fdce4f6579338d5972a9d8dd2dfec480597aeeab3&"
-        },
-        "footer": {
-          "text": "Dernière mise à jour : 5.5 | Guide par ZeLocks"
+        {
+            "color": 3120183,
+            "author": {
+                "name": "Yumemizuki Mizuki - Guide (Swirl Support)",
+                "icon_url": "https://cdn.discordapp.com/attachments/1355646675401576609/1355794290936254464/latest.png?ex=67ea3954&is=67e8e7d4&hm=cdd987ad7351e1d8f8e18210090e81293dffca7c895edacae995897399bb7a90&"
+            },
+            "fields": [
+                {
+                    "name": "Meilleures armes :",
+                    "value": "__Grasse Matinée Ensoleillée__ (5★)\nL’arme signature de Mizuki lui donne jusqu’à 513 de maîtrise élémentaire, ce qui en fait son BiS. Cependant, d'autres armes peuvent bien fonctionner aussi, car sa signature est faite exclusivement pour elle.\n\n__Montre de l’Appel des Étoiles__ (5★)\nL’arme signature de Citlali, offre 365 de maîtrise élémentaire. Le bonus de DGT lors de la création d’un bouclier ne sert à rien pour Mizuki, mais cela reste une bonne option en tant que stat stick.\n\n__Fragments de Sacrifice__ (4★)\nMeilleure arme 4★ pour Mizuki. Permet de réinitialiser le CD de sa compétence élémentaire (fortes chances à haut raffinement) et facilite la recharge d’énergie et les rotations.",
+                    "inline": true
+                },
+                {
+                    "name": "Autres armes :",
+                    "value": "__Guide de la Magie__ (3★)\nMeilleure arme 3★ en tant que stat stick. Même si elle donne moins de ME que les autres, elle reste une bonne option F2P, surtout avec un haut raffinement.",
+                    "inline": true
+                },
+                {
+                    "name": "Meilleurs artéfacts",
+                    "value": "**1)** 4p [*Ombre de la Verte Chasseuse*](https://gi.yatta.moe/fr/archive/reliquary/15002/viridescent-venerer)\n**2)** 4p [*Rêves dorés*](https://gi.yatta.moe/fr/archive/reliquary/15026/gilded-dreams)\n**3)** 2p [*Ombre de la Verte Chasseuse*](https://gi.yatta.moe/fr/archive/reliquary/15002/viridescent-venerer) & 2p ME"
+                },
+                {
+                  "name": "Priorité des stats principales",
+                  "value": "<:SablesDuTemps:1355650175284154489> Maitrise élémentaire\n<:CoupeDonothme:1355650173359096105> Maitrise élémentaire\n<:DiadmedeLogos:1355650171706540063> Maitrise élémentaire",
+                  "inline": true
+                },
+                {
+                    "name": "Priorité des sub stats",
+                    "value": "- Maîtrise élémentaire\n- Recharge d’énergie\n- ATQ%",
+                    "inline": true
+                },
+                {
+                    "name": "Priorité des talents",
+                    "value": "**1)** Compétence Élémentaire : Pèlerinage Asia Utamakura\n**2)** Déchaînement Élémentaire : Thérapie Secrète de la Source Anraku\n**3)** Attaque Normale : Cœur Pur, Rêves Purs"
+                }
+            ],
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/attachments/1355794291129188484/1355794452752371884/latest.png?ex=67ea397a&is=67e8e7fa&hm=021628d022073a4862de218fdce4f6579338d5972a9d8dd2dfec480597aeeab3&"
+            },
+            "footer": {
+                "text": "Dernière mise à jour : 5.5 | Guide par ZeLocks"
+            }
         }
-      }
     ]
-  }
+}
