@@ -1,0 +1,49 @@
+{
+    "content": "",
+    "embeds": [
+      {
+        "color": 3026478,
+        "footer": {
+          "text": "Last updated: ??? | Guide by ???"
+        },
+        "author": {
+          "name": "??? - Guide ()"
+        },
+        "fields": [
+          {
+            "name": "Best Weapon(s):",
+            "value": "__???__ (3/4/5★)",
+            "inline": true
+          },
+          {
+            "name": "Other Weapon(s)",
+            "value": "__???__ (3/4/5★)",
+            "inline": true
+          },
+          {
+            "name": "Best Artifact Sets",
+            "value": "**1)**",
+            "inline": false
+          },
+          {
+            "name": "Main Stat Priority",
+            "value": "<:SablesDuTemps:1355650175284154489> ???\n<:CoupeDonothme:1355650173359096105> ???\n<:DiadmedeLogos:1355650171706540063> ???",
+            "inline": true
+          },
+          {
+            "name": "Substats Priority",
+            "value": "- ???\n- ???\n- ???",
+            "inline": true
+          },
+          {
+            "name": "Talent Priority",
+            "value": "**1)** ???\n**2)** ???\n**3)** ???",
+            "inline": false
+          }
+        ]
+      }
+    ],
+    "attachments": [],
+    "webhook_id": "1356057768955609138",
+    "components": []
+  }
