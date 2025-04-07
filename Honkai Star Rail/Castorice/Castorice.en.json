@@ -1,53 +1,53 @@
 {
-    "content": "",
-    "embeds": [
-      {
-        "color": 8862904,
-        "footer": {
-          "text": "Last updated: 5.5 | Guide by ZeLocks"
+  "content": "",
+  "embeds": [
+    {
+      "color": 8862904,
+      "footer": {
+        "text": "Last updated: 5.5 | Guide by ZeLocks"
+      },
+      "author": {
+        "name": "Castorice - Guide (DPS)",
+        "icon_url": "https://cdn.discordapp.com/emojis/1195468842734997606.webp?size=240"
+      },
+      "fields": [
+        {
+          "name": "Best Lightcone(s):",
+          "value": "__Make Farewells More Beautiful__ (5★)\nCastorice’s signature and BiS. That light cone is specifically made for her because of the Max HP boost and ignoring DEF% + gaining DMG Bonus with her dragon.\n\n__Sweat Now, Cry Less__ (4★)\nDespite it being only via the battle pass, this is the only 4-star BiS for Castorice because that weapon has a high base HP and she can take advantage of the CRIT Rate and DMG dealt boost the light cone offers. This could be even insane at high superimposition.",
+          "inline": true
         },
-        "author": {
-          "name": "Castorice - Guide (DPS)",
-          "icon_url": "https://cdn.discordapp.com/emojis/1195468842734997606.webp?size=240"
+        {
+          "name": "Other Lightcone(s)",
+          "value": "__Time Waits for No One__ (5★)\nThis is Bailu’s signature that can be obtainable via the standard warp, that light cone gives a high amount of HP but the passive won’t apply to her as the path of the light cone isn’t the game as Castorice.\n\n__Night of Fright__ (5★)\nHuohuo’s signature, gives a high amount of HP but the passive won’t apply due to the path not being the same as Castorice.\n\n__Lightcones with high HP__ (4/5★)\nThere are lots of LCs that Castorice can have for only the HP they can offer even by ignoring the passive.",
+          "inline": true
         },
-        "fields": [
-          {
-            "name": "Best Lightcone(s):",
-            "value": "__Make Farewells More Beautiful__ (5★)\n\n__???__ (3/4/5★)",
-            "inline": true
-          },
-          {
-            "name": "Other Lightcone(s)",
-            "value": "__???__ (3/4/5★)",
-            "inline": true
-          },
-          {
-            "name": "Best Relics Sets",
-            "value": "**1)** 4pc [*Poet of Mourning Collapse*](https://sr.yatta.moe/en/archive/relic/124/poet-of-mourning-collapse) & 2pc [*Bone Collection's Serene Demesne*](https://sr.yatta.moe/en/archive/relic/319/bone-collections-serene-demesne)\n**2)**",
-            "inline": false
-          },
-          {
-            "name": "Main Stat Priority",
-            "value": "<:hsrcorps:1356083984471425057> CRIT Rate/DMG\n<:hsrpied:1356084049004990677> HP%\n<:hsrsphere:1356084154260783215> Quantum DMG Bonus\n<:hsrcorde:1356085235556683857> HP%",
-            "inline": true
-          },
-          {
-            "name": "Substats Priority",
-            "value": "- CRIT DMG\n- CRIT Rate\n- HP%\n- Effect RES%",
-            "inline": true
-          },
-          {
-            "name": "Talent Priority",
-            "value": "**1)** ???\n**2)** ???\n**3)** ???\n**4)** ???\n**5)** ???",
-            "inline": false
-          }
-        ],
-        "thumbnail": {
-          "url": "https://media.discordapp.net/attachments/1355646675401576609/1356070290735501465/1407.png?ex=67eb3a5f&is=67e9e8df&hm=6addb0152cbc3c44e2dc065638f4763306db52a24555081b5f36b0ff5edb71f6&=&format=webp&quality=lossless&width=677&height=922"
+        {
+          "name": "Best Relics Sets",
+          "value": "**1)** 4pc [*Poet of Mourning Collapse*](https://sr.yatta.moe/en/archive/relic/124/poet-of-mourning-collapse) & 2pc [*Bone Collection's Serene Demesne*](https://sr.yatta.moe/en/archive/relic/319/bone-collections-serene-demesne)\n**2)**",
+          "inline": false
+        },
+        {
+          "name": "Main Stat Priority",
+          "value": "<:hsrcorps:1356083984471425057> CRIT Rate/DMG\n<:hsrpied:1356084049004990677> HP%\n<:hsrsphere:1356084154260783215> Quantum DMG Bonus\n<:hsrcorde:1356085235556683857> HP%",
+          "inline": true
+        },
+        {
+          "name": "Substats Priority",
+          "value": "- CRIT DMG\n- CRIT Rate\n- HP%\n- Effect RES%",
+          "inline": true
+        },
+        {
+          "name": "Talent Priority",
+          "value": "**1)** Memosprite Skill\n**2)** Memosprite Talent\n**3)** Skill\n**4)** Talent\n**5)** Ultimate\n**6)** Basic ATK",
+          "inline": false
         }
+      ],
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1355646675401576609/1356070290735501465/1407.png?ex=67eb3a5f&is=67e9e8df&hm=6addb0152cbc3c44e2dc065638f4763306db52a24555081b5f36b0ff5edb71f6&=&format=webp&quality=lossless&width=677&height=922"
       }
-    ],
-    "attachments": [],
-    "webhook_id": "1356057768955609138",
-    "components": []
-  }
+    }
+  ],
+  "attachments": [],
+  "webhook_id": "1356057768955609138",
+  "components": []
+}
