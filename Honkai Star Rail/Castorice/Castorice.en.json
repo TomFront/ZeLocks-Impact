@@ -18,12 +18,12 @@
         },
         {
           "name": "Other Lightcone(s)",
-          "value": "__Time Waits for No One__ (5★)\nThis is Bailu’s signature that can be obtainable via the standard warp, that light cone gives a high amount of HP but the passive won’t apply to her as the path of the light cone isn’t the game as Castorice.\n\n__Night of Fright__ (5★)\nHuohuo’s signature, gives a high amount of HP but the passive won’t apply due to the path not being the same as Castorice.\n\n__Lightcones with high HP__ (4/5★)\nThere are lots of LCs that Castorice can have for only the HP they can offer even by ignoring the passive.",
+          "value": "__Time Waits for No One__ (5★)\nThis is Bailu’s signature that can be obtainable via the standard warp, that light cone gives a high amount of HP but the passive won’t apply to her as the path of the light cone isn’t the game as Castorice.\n\n__Night of Fright__ (5★)\nHuohuo’s signature, gives a high amount of HP but the passive won’t apply due to the path not being the same as Castorice.\n\n__Lightcones with high base HP__ (4/5★)\nThere are lots of LCs that Castorice can have for only the HP they can offer even by ignoring the passive.",
           "inline": true
         },
         {
           "name": "Best Relics Sets",
-          "value": "**1)** 4pc [*Poet of Mourning Collapse*](https://sr.yatta.moe/en/archive/relic/124/poet-of-mourning-collapse) & 2pc [*Bone Collection's Serene Demesne*](https://sr.yatta.moe/en/archive/relic/319/bone-collections-serene-demesne)\n**2)**",
+          "value": "**1)** 4pc [*Poet of Mourning Collapse*](https://sr.yatta.moe/en/archive/relic/124/poet-of-mourning-collapse) | 2pc [*Bone Collection's Serene Demesne*](https://sr.yatta.moe/en/archive/relic/319/bone-collections-serene-demesne)\n\n**2)** 2pc [*Poet of Mourning Collapse*](https://sr.yatta.moe/en/archive/relic/124/poet-of-mourning-collapse) & 2pc [*Genius of Brilliant Stars*](https://sr.yatta.moe/en/archive/relic/108/genius-of-brilliant-stars) | 2pc [*Fleet of Ageless*](https://sr.yatta.moe/en/archive/relic/302/fleet-of-the-ageless)\n\n**3)** 4pc [*Genius of Brilliant Stars*](https://sr.yatta.moe/en/archive/relic/108/genius-of-brilliant-stars) | 2pc [*Fleet of Ageless*](https://sr.yatta.moe/en/archive/relic/302/fleet-of-the-ageless)\n> *Note: 4pc Genius of Brilliant Stars' effect only apply to the weirer only and not the memosprite.*",
           "inline": false
         },
         {
@@ -38,7 +38,7 @@
         },
         {
           "name": "Talent Priority",
-          "value": "**1)** Memosprite Skill\n**2)** Memosprite Talent\n**3)** Skill\n**4)** Talent\n**5)** Ultimate\n**6)** Basic ATK",
+          "value": "**1)** Memosprite Skill\n**2)** Skill\n**3)** Memosprite Talent\n**4)** Talent\n**5)** Ultimate\n**6)** Basic ATK",
           "inline": false
         }
       ],
