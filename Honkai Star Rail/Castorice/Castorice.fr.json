@@ -1,0 +1,53 @@
+{
+  "content": "",
+  "embeds": [
+    {
+      "color": 8862904,
+      "footer": {
+        "text": "Dernier mise à jour : 3.3 | Guide par ZeLocks"
+      },
+      "author": {
+        "name": "Castorice - Guide (DPS)",
+        "icon_url": "https://cdn.discordapp.com/emojis/1195468842734997606.webp?size=240"
+      },
+      "fields": [
+        {
+          "name": "Meilleurs Cône(s):",
+          "value": "__Des adieux encore plus beaux__ (5★)\nLa cône signature et la meilleure pour Castorice. Cette cône est faite pour elle grâce au boost de son PV et les dégats qui ignorent la défense des ennemis et les DMG bonus.\n\n__Transpire, tu pleureras moins__ (4★)\nLe fait que cette cône peut que être reçu via le battle pass, elle est la meilleure 4 étoile pour Castorice grâce au PV de base qui donne et le passif peut booster le Taux CRIT de Castorice et les DGT infligés par elle et son dragon.",
+          "inline": true
+        },
+        {
+          "name": "Autres Cône(s)",
+          "value": "__Le temps n’attend pas__ (5★)\nCette cône est la signature pour Bailu mais c’est toute même une option grâce au PV de base qui donne, mais vous perdrez le passif puisque cette cône ne suit pas la voix du souvenir.\n\n__Nuit de l'épouvante__ (5★)\nLa cône signature de Huohuo qui donne beaucoup de PV de base comme celle de Bailu mais vous perdrez le buff via son passif.\n\n__Cônes avec beaucoup de PV__ (4/5★)\nPrenez une cône ayant le + de PV que vous pouvez même si le passif ne sera pas appliqué pour Castorice.",
+          "inline": true
+        },
+        {
+          "name": "Meilleurs Reliques",
+          "value": "**1)** 4p [*Poétesse du déclin funèbre*](https://sr.yatta.moe/fr/archive/relic/124/poet-of-mourning-collapse) | 2p [*Tranquille demeure des os*](https://sr.yatta.moe/fr/archive/relic/319/bone-collections-serene-demesne)\n\n**2)** 2p [*Poétesse du déclin funèbre*](https://sr.yatta.moe/fr/archive/relic/124/poet-of-mourning-collapse) & 2p [*Génies des étoiles*](https://sr.yatta.moe/fr/archive/relic/108/genius-of-brilliant-stars) | 2p [*Flotte de l'éternel*](https://sr.yatta.moe/fr/archive/relic/302/fleet-of-the-ageless)\n\n**3)** 4p [*Génies des étoiles*](https://sr.yatta.moe/fr/archive/relic/108/genius-of-brilliant-stars) | 2p [*Flotte de l'éternel*](https://sr.yatta.moe/fr/archive/relic/302/fleet-of-the-ageless)\n> *Note: L’effet de 2p de Génies des étoiles ne peut être appliqué que pour Castorice et non à son dragon.",
+          "inline": false
+        },
+        {
+          "name": "Priorité des stats principales",
+          "value": "<:hsrcorps:1356083984471425057> Chances de coup critique / DGT CRIT\n<:hsrpied:1356084049004990677> PV%\n<:hsrsphere:1356084154260783215> Augm. des DGT de quantiques\n<:hsrcorde:1356085235556683857> PV%",
+          "inline": true
+        },
+        {
+          "name": "Priorité des stats secondaires",
+          "value": "- DGT CRIT\n- Chances de coup crtique\n- PV%\n- RÉS aux effets%",
+          "inline": true
+        },
+        {
+          "name": "Priorité des talents",
+          "value": "**1)** Compétence du mnémesprit\n**2)** Compétence\n**3)** Talent du mnemesprit\n**4)** Talent\n**5)** Ultime\n**6)** ATQ normale",
+          "inline": false
+        }
+      ],
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1355646675401576609/1356070290735501465/1407.png?ex=67eb3a5f&is=67e9e8df&hm=6addb0152cbc3c44e2dc065638f4763306db52a24555081b5f36b0ff5edb71f6&=&format=webp&quality=lossless&width=677&height=922"
+      }
+    }
+  ],
+  "attachments": [],
+  "webhook_id": "1356057768955609138",
+  "components": []
+}
