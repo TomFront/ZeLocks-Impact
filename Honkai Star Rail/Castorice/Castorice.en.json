@@ -4,7 +4,7 @@
     {
       "color": 8862904,
       "footer": {
-        "text": "Last updated: 3.3 | Guide by ZeLocks"
+        "text": "Last updated: 3.2 | Guide by ZeLocks"
       },
       "author": {
         "name": "Castorice - Guide (DPS)",
@@ -23,7 +23,7 @@
         },
         {
           "name": "Best Relics Sets",
-          "value": "**1)** 4pc [*Poet of Mourning Collapse*](https://sr.yatta.moe/en/archive/relic/124/poet-of-mourning-collapse) | 2pc [*Bone Collection's Serene Demesne*](https://sr.yatta.moe/en/archive/relic/319/bone-collections-serene-demesne)\n\n**2)** 2pc [*Poet of Mourning Collapse*](https://sr.yatta.moe/en/archive/relic/124/poet-of-mourning-collapse) & 2pc [*Genius of Brilliant Stars*](https://sr.yatta.moe/en/archive/relic/108/genius-of-brilliant-stars) | 2pc [*Fleet of Ageless*](https://sr.yatta.moe/en/archive/relic/302/fleet-of-the-ageless)\n\n**3)** 4pc [*Genius of Brilliant Stars*](https://sr.yatta.moe/en/archive/relic/108/genius-of-brilliant-stars) | 2pc [*Fleet of Ageless*](https://sr.yatta.moe/en/archive/relic/302/fleet-of-the-ageless)\n> *Note: 4pc Genius of Brilliant Stars' effect only apply to the weirer only and not the memosprite.*",
+          "value": "**1)** 4pc [*Poet of Mourning Collapse*](https://sr.yatta.moe/en/archive/relic/124/poet-of-mourning-collapse) | 2pc [*Bone Collection's Serene Demesne*](https://sr.yatta.moe/en/archive/relic/319/bone-collections-serene-demesne)\n\n**2)** Mix of: 2pc [*Poet of Mourning Collapse*](https://sr.yatta.moe/en/archive/relic/124/poet-of-mourning-collapse) & 2pc [*Genius of Brilliant Stars*](https://sr.yatta.moe/en/archive/relic/108/genius-of-brilliant-stars) & 2pc [*Longevous Disciple*](https://sr.yatta.moe/en/archive/relic/113/longevous-disciple) & 2pc ATK% | 2pc [*Fleet of Ageless*](https://sr.yatta.moe/en/archive/relic/302/fleet-of-the-ageless)",
           "inline": false
         },
         {
@@ -38,7 +38,7 @@
         },
         {
           "name": "Talent Priority",
-          "value": "**1)** Memosprite Skill\n**2)** Skill\n**3)** Memosprite Talent\n**4)** Talent\n**5)** Ultimate\n**6)** Basic ATK",
+          "value": "**1)** Memosprite Skill\n**2)** Memosprite Talent\n**3)** Skill\n**4)** Talent\n**5)** Ultimate\n**6)** Basic ATK",
           "inline": false
         }
       ],
