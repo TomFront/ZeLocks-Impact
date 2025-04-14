@@ -4,7 +4,7 @@
     {
       "color": 8862904,
       "footer": {
-        "text": "Dernier mise à jour : 3.3 | Guide par ZeLocks"
+        "text": "Dernier mise à jour : 3.2 | Guide par ZeLocks"
       },
       "author": {
         "name": "Castorice - Guide (DPS)",
@@ -23,7 +23,7 @@
         },
         {
           "name": "Meilleurs Reliques",
-          "value": "**1)** 4p [*Poétesse du déclin funèbre*](https://sr.yatta.moe/fr/archive/relic/124/poet-of-mourning-collapse) | 2p [*Tranquille demeure des os*](https://sr.yatta.moe/fr/archive/relic/319/bone-collections-serene-demesne)\n\n**2)** 2p [*Poétesse du déclin funèbre*](https://sr.yatta.moe/fr/archive/relic/124/poet-of-mourning-collapse) & 2p [*Génies des étoiles*](https://sr.yatta.moe/fr/archive/relic/108/genius-of-brilliant-stars) | 2p [*Flotte de l'éternel*](https://sr.yatta.moe/fr/archive/relic/302/fleet-of-the-ageless)\n\n**3)** 4p [*Génies des étoiles*](https://sr.yatta.moe/fr/archive/relic/108/genius-of-brilliant-stars) | 2p [*Flotte de l'éternel*](https://sr.yatta.moe/fr/archive/relic/302/fleet-of-the-ageless)\n> *Note: L’effet de 2p de Génies des étoiles ne peut être appliqué que pour Castorice et non à son dragon.",
+          "value": "**1)** 4p [*Poétesse du déclin funèbre*](https://sr.yatta.moe/fr/archive/relic/124/poet-of-mourning-collapse) | 2p [*Tranquille demeure des os*](https://sr.yatta.moe/fr/archive/relic/319/bone-collections-serene-demesne)\n\n**2)** 2p [*Poétesse du déclin funèbre*](https://sr.yatta.moe/fr/archive/relic/124/poet-of-mourning-collapse) & 2p [*Génies des étoiles*](https://sr.yatta.moe/fr/archive/relic/108/genius-of-brilliant-stars) & 2p [*Disciple longévive*](https://sr.yatta.moe/fr/archive/relic/113/longevous-disciple) & 2p ATQ% | 2p [*Flotte de l'éternel*](https://sr.yatta.moe/fr/archive/relic/302/fleet-of-the-ageless)",
           "inline": false
         },
         {
@@ -38,7 +38,7 @@
         },
         {
           "name": "Priorité des talents",
-          "value": "**1)** Compétence du mnémesprit\n**2)** Compétence\n**3)** Talent du mnemesprit\n**4)** Talent\n**5)** Ultime\n**6)** ATQ normale",
+          "value": "**1)** Compétence du mnémesprit\n**2)** Talent du mnemesprit\n**3)** Compétence\n**4)** Talent\n**5)** Ultime\n**6)** ATQ normale",
           "inline": false
         }
       ],
