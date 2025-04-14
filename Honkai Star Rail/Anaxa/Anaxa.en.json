@@ -1,0 +1,53 @@
+{
+  "content": "",
+  "embeds": [
+    {
+      "color": 1752220,
+      "footer": {
+        "text": "Last updated: 3.3 | Guide by ???"
+      },
+      "author": {
+        "name": "Anaxa - Guide (???)",
+        "icon_url": "https://cdn.discordapp.com/emojis/1196872468808355882.webp?size=240"
+      },
+      "fields": [
+        {
+          "name": "Best Lightcone(s):",
+          "value": "__Life Should Be Cast to Flames__ (5★)\n\n__Eternal Calculus__ (5★)\n\n__The Great Cosmic Enterprise__ (4★)",
+          "inline": true
+        },
+        {
+          "name": "Other Lightcone(s)",
+          "value": "__Today Is Another Peaceful Day__ (4★)\n\n__The Day The Cosmos Fell__ (4★)",
+          "inline": true
+        },
+        {
+          "name": "Best Relics Sets",
+          "value": "**1)** ???",
+          "inline": false
+        },
+        {
+          "name": "Main Stat Priority",
+          "value": "<:hsrcorps:1356083984471425057> ???\n<:hsrpied:1356084049004990677> ???\n<:hsrsphere:1356084154260783215> ???\n<:hsrcorde:1356085235556683857> ???",
+          "inline": true
+        },
+        {
+          "name": "Substats Priority",
+          "value": "- ???",
+          "inline": true
+        },
+        {
+          "name": "Talent Priority",
+          "value": "**1)** ???",
+          "inline": false
+        }
+      ],
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1355646675401576609/1361373419970756748/image.png?ex=67fe854c&is=67fd33cc&hm=6ba5b68ff1a09bc0b19eadc1e35df24280af276dfe262e3260cf8afff6ef628e&=&format=webp&quality=lossless&width=677&height=922"
+      }
+    }
+  ],
+  "attachments": [],
+  "webhook_id": "1356057768955609138",
+  "components": []
+}
