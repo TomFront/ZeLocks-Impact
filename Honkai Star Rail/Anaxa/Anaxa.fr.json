@@ -1,0 +1,53 @@
+{
+  "content": "",
+  "embeds": [
+    {
+      "color": 1752220,
+      "footer": {
+        "text": "Dernier mise à jour : 3.2 | Guide par ZeLocks"
+      },
+      "author": {
+        "name": "Anaxa - Guide (???)",
+        "icon_url": "https://cdn.discordapp.com/emojis/1196872468808355882.webp?size=240"
+      },
+      "fields": [
+        {
+          "name": "Meilleures Cône(s)",
+          "value": "__Une vie forgée dans les flammes__ (5★)\n\n__Calcul éternel__ (5★)\n\n__La grande entreprise cosmique__ (4★)",
+          "inline": true
+        },
+        {
+          "name": "Autres Cône(s)",
+          "value": "__Encore une belle journée qui s'annonce__ (4★)\n\n__Le jour de l'effondrement du cosmos__ (4★)",
+          "inline": true
+        },
+        {
+          "name": "Meilleurs Reliques",
+          "value": "**1)** ???",
+          "inline": false
+        },
+        {
+          "name": "Priorité des stats principales",
+          "value": "<:hsrcorps:1356083984471425057> ???\n<:hsrpied:1356084049004990677> ???\n<:hsrsphere:1356084154260783215> ???\n<:hsrcorde:1356085235556683857> ???",
+          "inline": true
+        },
+        {
+          "name": "Priorité des stats secondaires",
+          "value": "- ???",
+          "inline": true
+        },
+        {
+          "name": "Priorité des talents",
+          "value": "**1)** ???",
+          "inline": false
+        }
+      ],
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/1355646675401576609/1361373419970756748/image.png?ex=67fe854c&is=67fd33cc&hm=6ba5b68ff1a09bc0b19eadc1e35df24280af276dfe262e3260cf8afff6ef628e&=&format=webp&quality=lossless&width=677&height=922"
+      }
+    }
+  ],
+  "attachments": [],
+  "webhook_id": "1356057768955609138",
+  "components": []
+}
